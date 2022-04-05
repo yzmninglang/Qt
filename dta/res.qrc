@@ -1,0 +1,77 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/map.png</file>
+        <file>res/21.png</file>
+        <file>res/Point.csv</file>
+        <file>res/1.png</file>
+        <file>res/2.png</file>
+        <file>res/3.png</file>
+        <file>res/4.png</file>
+        <file>res/5.png</file>
+        <file>res/6.png</file>
+        <file>res/7.png</file>
+        <file>res/8.png</file>
+        <file>res/9.png</file>
+        <file>res/10.png</file>
+        <file>res/11.png</file>
+        <file>res/12.png</file>
+        <file>res/13.png</file>
+        <file>res/14.png</file>
+        <file>res/15.png</file>
+        <file>res/16.png</file>
+        <file>res/17.png</file>
+        <file>res/18.png</file>
+        <file>res/19.png</file>
+        <file>res/20.png</file>
+        <file>res/22.png</file>
+        <file>res/dis.csv</file>
+        <file>res/ysu.png</file>
+        <file>res/logo.ico</file>
+    </qresource>
+    <qresource prefix="/audio">
+        <file>res/audio/1.wav</file>
+        <file>res/audio/2.wav</file>
+        <file>res/audio/3.wav</file>
+        <file>res/audio/4.wav</file>
+        <file>res/audio/5.wav</file>
+        <file>res/audio/6.wav</file>
+        <file>res/audio/7.wav</file>
+        <file>res/audio/8.wav</file>
+        <file>res/audio/9.wav</file>
+        <file>res/audio/10.wav</file>
+        <file>res/audio/11.wav</file>
+        <file>res/audio/12.wav</file>
+        <file>res/audio/13.wav</file>
+        <file>res/audio/14.wav</file>
+        <file>res/audio/15.wav</file>
+        <file>res/audio/16.wav</file>
+        <file>res/audio/17.wav</file>
+        <file>res/audio/18.wav</file>
+        <file>res/audio/19.wav</file>
+        <file>res/audio/20.wav</file>
+        <file>res/audio/21.wav</file>
+        <file>res/audio/22.wav</file>
+        <file>res/audio/arrive.wav</file>
+        <file>res/audio/start.wav</file>
+        <file>res/audio/through.wav</file>
+        <file>res/audio/xiancong.wav</file>
+        <file>res/audio/over.wav</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+    <qresource prefix="/qita">
+        <file>res/qita/daohang.png</file>
+        <file>res/qita/q1.png</file>
+        <file>res/qita/q2.png</file>
+        <file>res/qita/q3.png</file>
+        <file>res/qita/q4.png</file>
+        <file>res/qita/z1.png</file>
+        <file>res/qita/z2.png</file>
+        <file>res/qita/z3.png</file>
+        <file>res/qita/z4.png</file>
+        <file>res/qita/start2.png</file>
+        <file>res/qita/start3.png</file>
+        <file>res/qita/start4.png</file>
+        <file>res/qita/start1.png</file>
+        <file>res/qita/touming.png</file>
+    </qresource>
+</RCC>

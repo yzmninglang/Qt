@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>C.png</file>
+        <file>cpp.png</file>
+        <file>jie.jpg</file>
+        <file>Office.png</file>
+        <file>R.gif</file>
+        <file>youtube-logo_1647079616164.png</file>
+    </qresource>
+</RCC>
